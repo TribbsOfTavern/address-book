@@ -1,0 +1,17 @@
+{
+    "cb135d92-6711-11ee-a1c6-48e7da71ca45": {
+        "name": "Tribbs",
+        "address": "123 fake st., fake town, fs 00000",
+        "phone": "123-123-1234"
+    },
+    "ebcbc3cc-6714-11ee-9e70-48e7da71ca45": {
+        "name": "CodeName",
+        "address": "456 Fake St., Fake Town, FS 00000",
+        "phone": "234-234-2345"
+    },
+    "39216d09-6772-11ee-982b-48e7da71ca45": {
+        "name": "Sammy McFake",
+        "address": "345 Fake St., Fake City, FS 00000",
+        "phone": "123-567-2343"
+    }
+}
